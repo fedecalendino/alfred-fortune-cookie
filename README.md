@@ -5,3 +5,10 @@
 
 
 Workflow to showcase the [alfred-pyflow](https://github.com/fedecalendino/alfred-pyflow) library and its [cookiecutter 🍪](https://github.com/fedecalendino/alfred-pyflow-cookiecutter).
+
+
+#### Usage:
+
+![usage vars](./img/screenshots/usage.png)
+
+![example vars](./img/screenshots/example.png)
