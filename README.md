@@ -7,6 +7,6 @@
 
 #### Usage:
 
-![usage vars](./img/screenshots/usage.png)
+![usage vars](screenshots/usage.png)
 
-![example vars](./img/screenshots/example.png)
+![example vars](screenshots/example.png)
