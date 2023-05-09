@@ -13,7 +13,7 @@ def main(workflow):
         amount = 5
 
     for fortune in random.sample(FORTUNES, amount):
-        numbers = ' '.join(map(str, random.sample(range(1, 100), 6)))
+        numbers = " ".join(map(str, random.sample(range(1, 100), 6)))
 
         workflow.new_item(
             title=fortune,

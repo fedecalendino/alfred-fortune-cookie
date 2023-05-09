@@ -8,11 +8,11 @@
 	<string>Productivity</string>
 	<key>connections</key>
 	<dict>
-		<key>BE5AAEF8-A50B-43E5-AEE6-A61155657985</key>
+		<key>95AE703D-43D5-453D-B0A3-BFBC26DC8010</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>D24C0B70-1D51-42E5-A3DE-A0F87D8F19E1</string>
+				<string>B0EC909F-25E1-4699-9C40-16944D041957</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -47,7 +47,7 @@
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
-			<string>D24C0B70-1D51-42E5-A3DE-A0F87D8F19E1</string>
+			<string>B0EC909F-25E1-4699-9C40-16944D041957</string>
 			<key>version</key>
 			<integer>3</integer>
 		</dict>
@@ -96,7 +96,7 @@
 			<key>type</key>
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
-			<string>BE5AAEF8-A50B-43E5-AEE6-A61155657985</string>
+			<string>95AE703D-43D5-453D-B0A3-BFBC26DC8010</string>
 			<key>version</key>
 			<integer>3</integer>
 		</dict>
@@ -105,14 +105,14 @@
 	<string>Read your fortune! 🥠️</string>
 	<key>uidata</key>
 	<dict>
-		<key>BE5AAEF8-A50B-43E5-AEE6-A61155657985</key>
+		<key>95AE703D-43D5-453D-B0A3-BFBC26DC8010</key>
 		<dict>
 			<key>xpos</key>
 			<real>30</real>
 			<key>ypos</key>
 			<real>15</real>
 		</dict>
-		<key>D24C0B70-1D51-42E5-A3DE-A0F87D8F19E1</key>
+		<key>B0EC909F-25E1-4699-9C40-16944D041957</key>
 		<dict>
 			<key>xpos</key>
 			<real>280</real>
