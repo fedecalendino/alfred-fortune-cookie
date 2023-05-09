@@ -14,8 +14,6 @@ authors = [
 python = ">=3.8,<3.12"
 alfred-pyflow = "^0.4.5"
 
-
-
 [tool.poetry.group.dev.dependencies]
 black = "^23.3.0"
 coverage = "^7.2.5"
